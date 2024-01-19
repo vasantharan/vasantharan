@@ -7,6 +7,10 @@
 ![](https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg)
 
 <br>
+
+<p align="center">
+  <img src="[https://picsum.photos/460/300](https://leetcard.jacoblin.cool/vasantharan?ext=heatmap)">
+</p>
 <!--   ![](https://leetcard.jacoblin.cool/vasantharan?ext=heatmap) -->
 <img src="https://leetcard.jacoblin.cool/vasantharan?ext=heatmap" align="center"/>
 <!--
