@@ -2,6 +2,9 @@
 - 🔭 I’m currently working on [Azure Hub and Spoke Architecture](https://github.com/vasantharan/Azure-Hub-and-Spoke-Architecture-Using-Terraform.git)
 - 🌱 I’m currently learning Microsoft Azure Using Terraform 
 - 😄 Pronouns: He/Him
+
+![](https://github.com/vasantharan/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg)
 <!--
 **vasantharan/vasantharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
