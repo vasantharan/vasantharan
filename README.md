@@ -1,4 +1,5 @@
 ### Hi there 👋! I am Vasantharan 
+![](https://komarev.com/ghpvc/?username=vasantharan&color=blue)
 - 🔭 I’m currently working on [Azure Hub and Spoke Architecture](https://github.com/vasantharan/Azure-Hub-and-Spoke-Architecture-Using-Terraform.git)
 - 🌱 I’m currently learning Microsoft Azure Using Terraform 
 - 😄 Pronouns: He/Him
