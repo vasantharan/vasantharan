@@ -6,10 +6,9 @@
 ![](https://github.com/vasantharan/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg)
 
-<p algin="center"> 
+<br>
 <!--   ![](https://leetcard.jacoblin.cool/vasantharan?ext=heatmap) -->
-  <img src="https://leetcard.jacoblin.cool/vasantharan?ext=heatmap"/>
-</p>
+<img src="https://leetcard.jacoblin.cool/vasantharan?ext=heatmap" align="center"/>
 <!--
 **vasantharan/vasantharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
