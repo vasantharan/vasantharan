@@ -5,6 +5,10 @@
 
 ![](https://github.com/vasantharan/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg)
+<p align="center">
+  <img src="https://github.com/vasantharan/github-stats/blob/master/generated/overview.svg">
+  <img src="https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg">
+</p>
 
 <br>
 
