@@ -1,10 +1,13 @@
 ### Hi there 👋! I am Vasantharan 
+- 🔭 I’m currently working on Hub and Spoke 
+- 🌱 I’m currently learning
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning at Kongu Engineering College
 
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasantharan)](https://github.com/vasantharan/github-readme-stats)
-</div>
+<a href="https://github.com/vasantharan/github-stats">
+![](https://github.com/vasantharan/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg)
+</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasantharan)](https://github.com/vasantharan/github-readme-stats)
 <!--
 **vasantharan/vasantharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
