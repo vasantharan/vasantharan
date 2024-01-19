@@ -1,5 +1,6 @@
 ### Hi there 👋! I am Vasantharan 
 - 😄 Pronouns: He/Him
+- 🌱 I’m currently learning at Kongu Engineering College
 <!--
 **vasantharan/vasantharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
