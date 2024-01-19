@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at Kongu Engineering College
 
 
-![Vasanthara's github stats](https://github-readme-stats.vercel.app/api?username=vasantharan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasantharan)](https://github.com/vasantharan/github-readme-stats)
 <!--
 **vasantharan/vasantharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
