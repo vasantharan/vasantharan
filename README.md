@@ -28,10 +28,6 @@
 <br><br>
 
 <h3 align="left">Trophy:</h3>
-
-<div align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
-</div>
   
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=vasantharan&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,PullRequest,Reviews">
