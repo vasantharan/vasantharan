@@ -10,6 +10,11 @@
   <img src="https://github.com/vasantharan/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg">
 </p>
+<div align="center">
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vasantharan)](https://git.io/streak-stats)
+
+</div>
 
 <br>
 
@@ -24,8 +29,9 @@
 
 <h3 align="left">Trophy:</h3>
 
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+<div align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
+</div>
   
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=vasantharan&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,PullRequest,Reviews">
@@ -35,11 +41,6 @@
  </div>
  <br><br>
 
-<div align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vasantharan)](https://git.io/streak-stats)
-
-</div>
 
 <!--
 **vasantharan/vasantharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
