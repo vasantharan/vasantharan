@@ -37,6 +37,11 @@
  </div>
  <br><br>
 
+<h3 align="left">Skill:</h3>
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,terraform,azure,reactjs,html,css,javascript,git,github,java,C,arduino">
+</p>
+
 
 <!--
 **vasantharan/vasantharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
