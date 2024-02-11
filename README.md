@@ -8,12 +8,12 @@
 - 😄 Pronouns: He/Him
 
 
-{/*<h1>Connect wth me:</h1>*/}
+<!--<h1>Connect wth me:</h1>
 
 <div>
   
 </div>
-
+-->
 <br>
 
 <h1>Leetcode: </h1>
