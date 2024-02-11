@@ -39,7 +39,7 @@
 
 <h3 align="left">Skill:</h3>
  <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,terraform,azure,reactjs,html,css,javascript,git,github,java,c,arduino">
+  <img src="https://skillicons.dev/icons?i=python,terraform,azure,react,html,css,javascript,git,github,java,c,arduino,vercel,vscode,raspberrypi,netlify,bootstrap">
 </p>
 
 
