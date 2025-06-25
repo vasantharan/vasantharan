@@ -1,55 +1,66 @@
+### Hi there 👋! I am Vasantharan  
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-### Hi there 👋! I am Vasantharan 
+A curious developer who loves turning ideas into real-world projects.  
+From backend APIs to tech content, I enjoy building, learning, and sharing along the way.
 
-![](https://komarev.com/ghpvc/?username=vasantharan&color=blue)
-- 🔭 I’m currently working on [Azure Hub and Spoke Architecture](https://github.com/vasantharan/Azure-Hub-and-Spoke-Architecture-Using-Terraform.git)
-- 🌱 I’m currently learning Microsoft Azure Using Terraform 
-- 😄 Pronouns: He/Him
+🎓 I hold a B.Tech degree in Artificial Intelligence and Data Science.  
+💻 I work on everything from backend web apps to automation and DevOps workflows.  
+🛠️ Currently open to freelance or collaborative roles — let's connect and create something cool!
 
-
-<!--<h1>Connect wth me:</h1>
-
-<div>
+![Profile Views](https://komarev.com/ghpvc/?username=vasantharan&color=blue)
   
-</div>
--->
-<br>
+---
 
-<h1>Leetcode: </h1>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/vasantharan?ext=heatmap">
+### Connect with me
+
+<p align="left">
+  <a href="https://www.youtube.com/@TechKalviTalks" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vasantharank" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://vasantharan.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://www.instagram.com/vasantharan_k/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
-<br>
-<h1>GitHub Stats:</h1>
+---
+
+### 📊 LeetCode Stats
+
 <p align="center">
-  <img src="https://github.com/vasantharan/github-stats/blob/master/generated/overview.svg">
-  <img src="https://github.com/vasantharan/github-stats/blob/master/generated/languages.svg">
+  <img src="https://leetcard.jacoblin.cool/vasantharan?ext=heatmap" alt="Vasantharan's LeetCode Stats"/>
 </p>
-<div align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vasantharan)](https://git.io/streak-stats)
 
-</div>
-<h3 align="left">Activity:</h3>
+---
 
-![Vasantharan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vasantharan&custom_title=Vasantharan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+### 🧠 Skills & Tools
 
-<h3 align="left">Trophy:</h3>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vasantharan&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Commits,PullRequest,Reviews">
- </div>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vasantharan&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Stars,Followers">
- </div>
- <br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,fastapi,flask,git,github,githubactions,nodejs,mongodb,express,opencv,javascript,postman,linux,java,c,react,html,css,arduino,vercel,vscode,raspberrypi,bootstrap,terraform,azure" />
+</p>
 
-<h3 align="left">Skill:</h3>
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,terraform,azure,react,html,css,javascript,git,github,java,c,arduino,vercel,vscode,raspberrypi,netlify,bootstrap">
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasantharan&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasantharan&theme=graywhite&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 🎯 Book a 1:1 Session
+
+<p align="left">
+  <a href="https://topmate.io/vasantharan" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule%20a%20Call%20with%20Me-%2300acee?style=for-the-badge&logo=Topmate&logoColor=white" alt="Topmate Link" />
+  </a>
 </p>
 
 
